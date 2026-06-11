@@ -5,3 +5,5 @@
 - Data: 11/06 (Hoje, ás 20:10 [horário de preenchimento])
 ## Objetivo 
 Aprender a utilizar Git e GitHub.
+## Aprendizado 
+Nesta atividade, aprendi a enviar alterações para o GitHub.
