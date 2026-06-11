@@ -1,0 +1,7 @@
+OBJETIVOS PARA O CURSO 
+1. Aprender a utilizar Git;
+2. Aprender a utilizar GitHub;
+3. Aprender a programar.
+
+Objetivo exclusivo do William: Trabalhar com isso.
+Objetivo para a vida do Tiago: Não trabalhar.
